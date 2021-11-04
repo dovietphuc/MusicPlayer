@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPLayer</string>
+    <string name="time_format">%1$d min, %2$d sec</string>
+</resources>
