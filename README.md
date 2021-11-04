@@ -1,2 +1,2 @@
 # MusicPlayer
-Họ và tên: Đỗ Việt Phúc &lt;br />Lớp: 1810A04 - Android nâng cao, chiều thứ 5
+Họ và tên: Đỗ Việt Phúc <br />Lớp: 1810A04 - Android nâng cao, chiều thứ 5
